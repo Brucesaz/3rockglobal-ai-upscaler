@@ -1,1 +1,1 @@
-Place your Real-ESRGAN .pth model files here (e.g., RealESRGAN_x4plus.pth).
+Place your Real-ESRGAN .pth model weights here.
