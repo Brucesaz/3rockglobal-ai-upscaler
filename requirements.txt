@@ -1,0 +1,6 @@
+streamlit
+torch
+realesrgan
+Pillow
+opencv-python
+matplotlib
